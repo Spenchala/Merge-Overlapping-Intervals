@@ -1,6 +1,5 @@
 //
 //  VistorData.swift
-//  ios-interview
 //
 //  Created by Sandeep Penchala on 2/01/17.
 //  Copyright © 2017 . All rights reserved.

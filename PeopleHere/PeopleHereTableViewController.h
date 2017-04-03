@@ -1,6 +1,5 @@
 //
 //  PeopleHereTableViewController.h
-//  ios-interview
 //
 //
 

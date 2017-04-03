@@ -35,7 +35,7 @@
 		59179A0B1C99DCBF00464D6D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		59179A0E1C99DCBF00464D6D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = LaunchScreen.storyboard; sourceTree = "<group>"; };
 		59179A101C99DCBF00464D6D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Main.storyboard; sourceTree = "<group>"; };
-		6C1035991E415D2400D0FA30 /* ios-interview-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "ios-interview-Bridging-Header.h"; sourceTree = "<group>"; };
+		6C1035991E415D2400D0FA30 /* MergeIntervals-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "MergeIntervals-Bridging-Header.h"; sourceTree = "<group>"; };
 		6C10359A1E415D2400D0FA30 /* VisitorsTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = VisitorsTableViewCell.swift; sourceTree = "<group>"; };
 		6C10359B1E415D2400D0FA30 /* VisitorsTableViewCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; name = VisitorsTableViewCell.xib; path = ../../PeopleHere/VisitorsTableViewCell.xib; sourceTree = "<group>"; };
 		6C10359E1E416E5F00D0FA30 /* VisitorData.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = VisitorData.swift; sourceTree = "<group>"; };
@@ -88,7 +88,7 @@
 				21CA71911C9AF42300783F31 /* PeopleHereTableViewController.h */,
 				21CA71921C9AF42300783F31 /* PeopleHereTableViewController.m */,
 				6C10359A1E415D2400D0FA30 /* VisitorsTableViewCell.swift */,
-				6C1035991E415D2400D0FA30 /* ios-interview-Bridging-Header.h */,
+				6C1035991E415D2400D0FA30 /* MergeIntervals-Bridging-Header.h */,
 				6C10359E1E416E5F00D0FA30 /* VisitorData.swift */,
 				6C1035A01E4171FD00D0FA30 /* VenueDetails.swift */,
 				6C1035A21E41732C00D0FA30 /* ConversionUtils.swift */,
@@ -319,7 +319,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.mergeoverlappingintervals;
 				PRODUCT_NAME = Mergeoverlappingintervals;
-				SWIFT_OBJC_BRIDGING_HEADER = "PeopleHere/ios-interview-Bridging-Header.h";
+				SWIFT_OBJC_BRIDGING_HEADER = "PeopleHere/MergeIntervals-Bridging-Header.h";
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 3.0;
 			};
@@ -336,7 +336,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.mergeoverlappingintervals;
 				PRODUCT_NAME = Mergeoverlappingintervals;
-				SWIFT_OBJC_BRIDGING_HEADER = "PeopleHere/ios-interview-Bridging-Header.h";
+				SWIFT_OBJC_BRIDGING_HEADER = "PeopleHere/MergeIntervals-Bridging-Header.h";
 				SWIFT_VERSION = 3.0;
 			};
 			name = Release;
